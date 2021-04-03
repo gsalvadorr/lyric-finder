@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/lyric-finder/static/css/main.ea1455b2.chunk.css",
-    "main.js": "/lyric-finder/static/js/main.2e07256c.chunk.js",
-    "main.js.map": "/lyric-finder/static/js/main.2e07256c.chunk.js.map",
+    "main.js": "/lyric-finder/static/js/main.e1b5cccd.chunk.js",
+    "main.js.map": "/lyric-finder/static/js/main.e1b5cccd.chunk.js.map",
     "runtime-main.js": "/lyric-finder/static/js/runtime-main.798b389c.js",
     "runtime-main.js.map": "/lyric-finder/static/js/runtime-main.798b389c.js.map",
-    "static/js/2.9396c8ab.chunk.js": "/lyric-finder/static/js/2.9396c8ab.chunk.js",
-    "static/js/2.9396c8ab.chunk.js.map": "/lyric-finder/static/js/2.9396c8ab.chunk.js.map",
+    "static/js/2.907e7fee.chunk.js": "/lyric-finder/static/js/2.907e7fee.chunk.js",
+    "static/js/2.907e7fee.chunk.js.map": "/lyric-finder/static/js/2.907e7fee.chunk.js.map",
     "static/js/3.a44b056c.chunk.js": "/lyric-finder/static/js/3.a44b056c.chunk.js",
     "static/js/3.a44b056c.chunk.js.map": "/lyric-finder/static/js/3.a44b056c.chunk.js.map",
     "index.html": "/lyric-finder/index.html",
     "static/css/main.ea1455b2.chunk.css.map": "/lyric-finder/static/css/main.ea1455b2.chunk.css.map",
-    "static/js/2.9396c8ab.chunk.js.LICENSE.txt": "/lyric-finder/static/js/2.9396c8ab.chunk.js.LICENSE.txt"
+    "static/js/2.907e7fee.chunk.js.LICENSE.txt": "/lyric-finder/static/js/2.907e7fee.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.798b389c.js",
-    "static/js/2.9396c8ab.chunk.js",
+    "static/js/2.907e7fee.chunk.js",
     "static/css/main.ea1455b2.chunk.css",
-    "static/js/main.2e07256c.chunk.js"
+    "static/js/main.e1b5cccd.chunk.js"
   ]
 }
